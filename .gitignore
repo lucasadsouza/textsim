@@ -1,0 +1,7 @@
+textsim/__pycache__
+textsim/methods/__pycache__
+textsim.egg-info
+Include
+Lib
+Scripts
+pyvenv.cfg
